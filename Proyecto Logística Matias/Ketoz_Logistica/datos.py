@@ -1,0 +1,1 @@
+destinos = ['Bogota', 'Medellin', 'Cali', 'Barranquilla', 'Bucaramanga']
